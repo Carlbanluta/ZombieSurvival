@@ -1,0 +1,4 @@
+node_modules/
+accounts.json
+accounts.json.tmp
+board.json
